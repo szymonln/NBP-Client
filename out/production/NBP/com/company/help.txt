@@ -1,0 +1,12 @@
+NBP Klient.
+
+Opis wprowadzania argumentów:
+[-d] [Date] [Code]                Wypisuje dla podanego dnia cenę złota oraz cenę podanej waluty
+[-a] [StartDate] [EndDate]        Wypisuje średnia cene złota w podanym okresie
+[-amp] [StartDate] [EndDate]      Wypisuje walutę, której amplituda wahań kursu była najmniejsza w podanym okresie
+[-l] [Date]                       Odszukuje walutę, której kurs kupna w podanym dniu był najmniejszy
+[-N] [N] [Date]                   Wypisuje N walut posortowanych rosnąc względem różnicy między ceną sprzedaży a zakupu w danym dniu
+[-f] [StartDate] [EndDate] [Code] Wypisuje kiedy dana waluta była najtańsza a kiedy najdroższa
+[-g] [StartDate] {EndDate] [Code] Rysuje wspólny wykres zmian ceny podanej waluty w ukł. tygodniowym.
+
+Daty powinny zostać podane w formacie YYYY-MM-DD.
