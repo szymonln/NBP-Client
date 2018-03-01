@@ -1,2 +1,2 @@
 * linguist-vendored
-*. linguist-vendored=false
+*.company linguist-vendored=false
