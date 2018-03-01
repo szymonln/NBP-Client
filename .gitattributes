@@ -1,2 +1,2 @@
 * linguist-vendored
-com/company/* linguist-vendored=true
+src/* linguist-vendored=false
